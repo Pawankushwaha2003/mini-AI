@@ -1,5 +1,5 @@
-langchain_openai
-langchain_core
-python-dotenv
 streamlit
-langchain_community
+langchain
+langchain-core
+langchain-groq
+python-dotenv
